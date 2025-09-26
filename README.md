@@ -40,7 +40,7 @@
   </main>
 
   <footer>
-    <p>Contact me at <a href="mailto:amirabdulwahab3122@gmail.com">email@example.com</a></p>
+    <p>Contact me at <a href="mailto:amirabdulwahab3122@gmail.com">amirabdulwahab3122@gmail.com.</a></p>
     <p>&copy; 2025 Amir Abdulwahab</p>
   </footer>
 </body>
